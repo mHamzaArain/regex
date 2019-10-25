@@ -1,0 +1,1 @@
+@py C:\Users\Family\MyPythonScripts\regex.py %*
